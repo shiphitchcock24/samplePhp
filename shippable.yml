@@ -11,5 +11,5 @@ php:
 build:
   ci:
     - php --version
-    - sleep 5m
+    #- sleep 5m
     
