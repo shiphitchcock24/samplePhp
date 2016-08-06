@@ -40,10 +40,10 @@ build:
     
   ci:
     - php --version
-    - echo "$m1"
-    - echo "$m2"
-    - echo "$GOO"
-    - echo "$m3"
+   # - echo "$m1"
+  #  - echo "$m2"
+   # - echo "$GOO"
+  #  - echo "$m3"
     - echo "$s1"
     - echo "$s2"
   
