@@ -49,6 +49,7 @@ build:
     - echo "$s1"
     - echo "$s2"
     - echo "$new"
+    - echo "$new2"
 
    # - echo "$m1"
   #  - echo "$m2"
