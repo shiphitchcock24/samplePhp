@@ -23,6 +23,15 @@ integrations:
       on_start: always
       on_success: always 
       on_failure: always
+    
+    - integrationName: email      
+      type: email   
+      recipients: 
+          - sreyaj10@gmail.com
+          - sreya@shippable.com
+      on_start: always
+      on_success: always 
+      on_failure: always 
 
  
  
