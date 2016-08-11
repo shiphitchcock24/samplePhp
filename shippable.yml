@@ -11,7 +11,6 @@ php:
 build:
   ci:
     - php --version
-    - thy
    
 
 integrations: 
